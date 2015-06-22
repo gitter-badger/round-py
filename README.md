@@ -1,4 +1,6 @@
 # round-py: A Python client for the Gem API
+
+[![Join the chat at https://gitter.im/GemHQ/round-py](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/GemHQ/round-py?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The round client is designed to interact with Gem's API to make building blockchain apps drop dead simple.  All the complexity of altcoin protocols and cryptography has been abstracted away so you can focus on building your product.  Here are a few of the many great things the API and clients provide:
 
 * Multi-signature wallets with Gem as a cosigner
